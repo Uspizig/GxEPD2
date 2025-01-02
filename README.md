@@ -68,6 +68,7 @@
 - GDEP015OC1     1.54" b/w 200x200, IL3829, no longer available
 - GDEH0154D67    1.54" b/w 200x200, SSD1681, replacement for GDEP015OC1
 - GDEW0154T8     1.54" b/w 152x152, UC8151 (IL0373)
+- GDEY0154F51    1.54" b/w/r/y 152x152, JD79661
 - GDEW0154M09    1.54" b/w 200x200, JD79653A
 - GDEW0154M10    1.54" b/w 152x152, UC8151D, DES
 - GDEY0154D67    1.54" b/w 200x200, SSD1681
@@ -162,6 +163,8 @@
 - But only few panels at any time, and only panels from known sources. 
 - Adding support will take as much time as needed.
 
+### Version 1.6.1b
+- added support for GDEY0154F51, with Driver IC JD79661
 ### Version 1.6.1
 - fixed and updated GxEPD2_WiFi_Example
 #### Version 1.6.0
