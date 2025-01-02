@@ -117,6 +117,7 @@ class GxEPD2
       GDEY1248Z51,
       GDEM133Z91,
       // 4-color
+      GDEY0154F51H,
       GDEY0213F51,
       GDEY0266F51H,
       GDEY029F51H,
